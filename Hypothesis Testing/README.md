@@ -14,10 +14,10 @@ How well those variables describe the electric cycle demands
 
 <h1>Concept Used</h1>
 
-<ul>Bi-Variate Analysis
-<ul>2-sample t-test: testing for difference across populations
-<ul>ANNOVA
-<ul>Chi-square
+- Bi-Variate Analysis
+- 2-sample t-test: testing for difference across populations
+- ANNOVA
+- Chi-square
 
 ---
 
