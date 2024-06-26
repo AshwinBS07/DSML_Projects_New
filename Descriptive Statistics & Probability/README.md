@@ -1,5 +1,3 @@
-# DSML_Projects_New
-
 <h1>About data</h1>
 Fitness Brand is a leading brand in the field of fitness equipment. Fitness Brand provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
 
