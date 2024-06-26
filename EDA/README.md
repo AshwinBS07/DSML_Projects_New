@@ -30,8 +30,8 @@ Analyze the data and generate insights that could help this platform in deciding
    - Identify the best times to launch a TV show based on historical data.
 5. **Actors/Directors Analysis**
    - Analyze the involvement of actors and directors in different types of shows and movies.
-6. **Netflix Focus Analysis**
-   - Investigate whether Netflix has focused more on TV shows than movies in recent years.
+6. **Platform Focus Analysis**
+   - Investigate whether this platform has focused more on TV shows than movies in recent years.
 7. **Country-Specific Content Analysis**
    - Understand the content distribution and availability across different countries.
 
