@@ -95,10 +95,11 @@ To analyze and predict loan status using various predictor variables and provide
     Answer: Teacher & Manager
 
 6.  Thinking from a bank's perspective, which metric should our primary focus be on
-    ROC-AUC: Not a good metric to consider as we have highly imbalanced data.
-    Precision: Consider when only want to reduce Non-performing asset
-    Recall: Consider when we do not want to miss a good opportunity to provide a loan to the customer
-    F1-score: Good metric for us, because we want to consider both Precision and Recall.
+
+    - ROC-AUC: Not a good metric to consider as we have highly imbalanced data.
+    - Precision: Consider when only want to reduce Non-performing asset
+    - Recall: Consider when we do not want to miss a good opportunity to provide a loan to the customer
+    - F1-score: Good metric for us, because we want to consider both Precision and Recall.
 
     Answer: F1-Score
 
