@@ -111,14 +111,14 @@ To analyze and predict loan status using various predictor variables and provide
 
     Answer: A few important features are
 
-        - Loan sub-grade
-        - Annual Income
-        - Interest rate
-        - Mortgaged accounts
-        - Purpose
-        - Application Type
-        - Employment Length
-        - Home Ownership
+    - Loan sub-grade
+    - Annual Income
+    - Interest rate
+    - Mortgaged accounts
+    - Purpose
+    - Application Type
+    - Employment Length
+    - Home Ownership
 
 9.  Will the results be affected by geographical location?
 
